@@ -1,22 +1,18 @@
 {
-  "name": "gitbook-plugin-hide-element",
-  "version": "0.0.1",
-  "description": "Hide the element that you don't want to see.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gonjay/gitbook-plugin-hide-element.git"
-  },
-  "keywords": [
-    "gitbook"
-  ],
-  "author": "assyer",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gonjay/gitbook-plugin-hide-element/issues"
-  },
-  "homepage": "https://github.com/gonjay/gitbook-plugin-hide-element"
+    "name": "gitbook-plugin-hide-element",
+    "description": "Hide the element that you don't want to see.",
+    "main": "index.js",
+    "version": "0.0.3",
+    "engines": {
+        "gitbook": "*"
+    },
+    "homepage": "https://github.com/gonjay/gitbook-plugin-hide-element",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gonjay/gitbook-plugin-hide-element.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/gonjay/gitbook-plugin-hide-element/issues"
+    }
 }
